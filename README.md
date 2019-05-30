@@ -1,5 +1,5 @@
 # hello_world
-	test
+test
 	
-	
+print ("Hello World")	
 	
