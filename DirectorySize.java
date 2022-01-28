@@ -1,12 +1,12 @@
 /**
-This will prompt a user to enter a directory and display its size.
+This program will prompt a user to enter a directory, calculate its size 
+using a recursive method, and display it to the console.
 **/
 
 import java.io.File;
 import java.util.Scanner;
 
 public class DirectorySize {
-
 
 	// method getSize 
 	public static long getSize(File file) {
